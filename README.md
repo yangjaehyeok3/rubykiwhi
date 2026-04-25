@@ -1,2 +1,0 @@
-# rubykiwhi
-ruby-kiwhi
